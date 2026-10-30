@@ -1,0 +1,31 @@
+# Dossiers de developpement locaux (apps consolidees a la racine)
+frontend/
+frontendd/
+backend/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.local
